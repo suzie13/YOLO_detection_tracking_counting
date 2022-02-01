@@ -12,6 +12,7 @@ This will download from train subset and limit value can be altered
 
 
 The results from training on 1000 images using yolov4-tiny are shown. The framework incorporated was tensorflow.
+The functions.py file performs the computation for counting of detected objects by class i.e Helmet in this case.
 
 ### Running detections and counting on image
 # ![After detection + counting](https://user-images.githubusercontent.com/39700209/151843359-7d8eab1f-c570-4a5d-8e2b-cc1c46600429.png)
