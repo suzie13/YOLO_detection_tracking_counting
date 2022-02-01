@@ -50,7 +50,7 @@ https://user-images.githubusercontent.com/39700209/151848178-14013787-aa32-441f-
 
 
 ### Running detections on a harder video:
-![detection + counting](/assets/video/results_2.mp4)
+![detection + counting](/assets/videos/results_2.mp4)
 
 
 
@@ -65,8 +65,8 @@ https://user-images.githubusercontent.com/39700209/151848178-14013787-aa32-441f-
 
 
 FUTURE SCOPE:
->The model can be trained for more images by changing the --limit to a greater number
->The algorithms YOLOv4 or YOLOv5 can be the alternative to be used for training
+>The model can be trained for more images by changing the --limit to a greater number.
+>The algorithms YOLOv4 or YOLOv5 can be the alternative to be used for training.
 >Different weights can be checked to find the one giving better results and avoiding the overfitted or undertrained one.
 
 
