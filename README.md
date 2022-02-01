@@ -1,8 +1,15 @@
 # YOLO_detection_tracking_counting
 
 
-### Using the OIDv4-toolkit, we can download images along with its annotations from the 'Open Images Dataset' of Google using the below command:
-!python main.py downloader --classes Helmet --type_csv train --limit 1000
+
+
+Using the OIDv4-toolkit, we can download images along with its annotations from the 'Open Images Dataset' of Google using the below command:
+
+python main.py downloader --classes Helmet --type_csv train --limit 1000
+
+
+This will download from train subset and limit value can be altered
+
 
 
 
