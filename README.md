@@ -50,10 +50,7 @@ https://user-images.githubusercontent.com/39700209/151848178-14013787-aa32-441f-
 
 
 ### Running detections on a harder video:
-![detection + counting](/assets/videos/results_2.mp4)
-
-
-
+https://user-images.githubusercontent.com/39700209/152034431-68237047-9332-4078-a963-a2eca93c98b8.mp4
 
 
 
