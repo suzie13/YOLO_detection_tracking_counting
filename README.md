@@ -62,7 +62,7 @@ https://user-images.githubusercontent.com/39700209/152034431-68237047-9332-4078-
 
 
 FUTURE SCOPE:
->The model can be trained for more images by changing the --limit to a greater number.
+>The model can be trained for more images by changing the --limit to a greater number for example 3000.
 >The algorithms YOLOv4 or YOLOv5 can be the alternative to be used for training.
 >Different weights can be checked to find the one giving better results and avoiding the overfitted or undertrained one.
 
